@@ -33,7 +33,7 @@ Problem Solving • Teamwork • Communication • Continuous Learning • Time 
 ## 🚀 Experience
 
 ### Dr. Code (Flutter Developer)  
-📍 Giza, Egypt | 📅 May 2024 – Feb 2025  
+📍 Giza, Egypt | 📅 July 2024 – Present  
 - Collaborated on and built various Flutter apps in domains like education, ride-hailing, and e-commerce.  
 - Implemented complete UI features from scratch in some projects and contributed to others collaboratively.  
 - Integrated apps with backend APIs to deliver functional and user-friendly experiences.
