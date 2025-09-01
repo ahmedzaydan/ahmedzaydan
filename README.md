@@ -68,8 +68,8 @@ If you're interested in mobile development, collaboration, or just want to say h
 
 - 📧 **Email**: ahmedzaydan2901@gmail.com  
 - 🐙 **GitHub**: [ahmedzaydan](https://github.com/ahmedzaydan)  
-- 🔗 **LinkedIn**: [Ahmed Zaydan](https://linkedin.com/in/ahmed-zaydan)
-- 📄 **CV**: [View My CV](https://drive.google.com/file/d/1-XjhlQM47y47quj_XLnT2iudqpb5uJSF/view?usp=drive_link)
+- 🔗 **LinkedIn**: [Ahmed Zaydan](https://linkedin.com/in/ahmed-zaydan) 
+- 📄 **CV**: [View My CV](https://drive.google.com/file/d/1GN8HK-8YdlLHfxfQ_nt5VZu6ModvJ9-M/view?usp=sharing)
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
