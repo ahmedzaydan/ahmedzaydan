@@ -1,75 +1,153 @@
-# 👋 Hi, I'm Ahmed Zaydan
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/AhmedOmran22)
 
-🎯 **Mobile Application Developer | Flutter Enthusiast**  
-📍 6th of October, Egypt | 📧 ahmedzaydan2901@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ahmed-zaydan) | 🐙 [GitHub](https://github.com/ahmedzaydan)
+<div align="center">
+  <h1>Hi, I'm Ahmed Zaydan👋</h1>
+  <h3>Software Engineer and Flutter Developer</h3>
+
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedOmran22" alt="visitors">
+  </div>
+
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=700&size=22&pause=1000&color=4A8DD7&center=true&width=435&lines=Welcome+To+My+GitHub+Profile;" alt="Typing SVG">
+    </a>
+  </p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Computer Science graduate** and a dedicated **Flutter developer** who enjoys solving problems and crafting beautiful, responsive, and high-performance mobile apps.
+I'm Ahmed Zaydan a **Computer Science graduate** and a dedicated **Flutter developer** with **2+ years of experience** who enjoys solving problems and crafting beautiful, responsive, and high-performance mobile apps.
 
-With a solid background in **OOP**, **SOLID principles**, and **clean architecture**, I specialize in building scalable and maintainable applications. I strive for continuous growth, clean code, and making a real impact through technology.
+With a solid background in **OOP**, **SOLID principles**, and **clean Architecture**, I specialize in building scalable and maintainable applications. I strive for continuous growth, clean code, and making a real impact through technology.
+
+---
+
+## Eduction
+
+**Bachelor of Computer Science** (2020 - 2024)  
+Cairo University - Faculty of Computers and Artificial Intelligence - Computer Science department
+
+- Graduation project grade: A+
+- GPA: 3.24 (Very good)
+
+---
+
+## 😎 Experience
+
+### Flutter Developer - [Dr. Code](https://doctor-code.net/en)
+
+📍 Giza, Egypt | 📅 July 2024 – Dec 2025
+
+- Collaborated on and built various Flutter apps in domains like education, ride-hailing, and e-commerce.
+- Implemented complete UI features from scratch in some projects and contributed to others collaboratively.
+- Integrated apps with backend APIs to deliver functional and user-friendly experiences.
+
+### Flutter Developer - [Wadjet](https://www.linkedin.com/company/wadjetapp/) (Part Time)
+
+📍 Remote | 📅 July 2024 – Sep 2024
+
+- Built the vendor app for a gamified F&B marketing platform.
 
 ---
 
 ## 🧰 Tech Stack & Skills
 
-**Mobile Development**  
-Flutter • Cubit • Firebase • Sqflite • Google Maps • MVVM • Clean Architecture • Responsive UI
+### Mobile Development
 
-**Programming**  
-Dart • Python • Java • C++ • C • Algorithms • Data Structures • REST APIs • Design Patterns
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48"/>
+</div>
 
-**Tools & Platforms**  
-Git • GitHub • Postman • Trello • Figma
+### Architecture & State Management
 
-**Soft Skills**  
-Problem Solving • Teamwork • Communication • Continuous Learning • Time Management
+<div align="center">
+<img src="https://img.shields.io/badge/Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVVM-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID%20Principles-FF6F00?style=for-the-badge"/>
+</div>
+
+### Backend & Database
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sqflite-003B57?style=for-the-badge"/>
+</div>
+
+### Tools & Platforms
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,github,gitlab,postman" />
+</div>
+
+### CI/CD & DevOps
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</div>
+
+### Other Skills
+
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Push%20Notifications-FFCA28?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Payment%20Gateway-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20UI-7952B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON%20Serialization-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Debugging-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-0081CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-607D8B?style=for-the-badge"/>
 
 ---
 
-## 🚀 Experience
+## 📱 Projects
 
-### Dr. Code (Flutter Developer)  
-📍 Giza, Egypt | 📅 July 2024 – Present  
-- Collaborated on and built various Flutter apps in domains like education, ride-hailing, and e-commerce.  
-- Implemented complete UI features from scratch in some projects and contributed to others collaboratively.  
-- Integrated apps with backend APIs to deliver functional and user-friendly experiences.
+### Talabety: B2B mobile application
 
-### Wadjet (Part-Time Flutter Developer)  
-📍 Remote | 📅 July 2024 – Sep 2024  
-- Built the vendor app for a gamified F&B marketing platform.
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.talabety.promosigns&pcampaignid=web_share)
+- [Apple Store](https://apps.apple.com/eg/app/%D8%B7%D9%84%D8%A8%D9%8A%D8%AA%D9%8A/id6761391585)
 
----
+## Audit Station: Accounting Platform Mobile Application
 
-## 📱 Notable Projects
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.stationsGroup.auditStation)
+- [Apple Store](https://apps.apple.com/eg/app/audit-station/id6746169066)
 
-### Codify – Interview Materials App  
-- Collaborated in the development of a mobile application to assist users in preparing for interviews.  
-- Implemented categorized materials, question lists per category, and a toggle feature to mark questions as favorites.  
-- Led the publishing process and successfully released the application on the Amazon Appstore.
+### Wadjet Partners – F&B marketing mobile application
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.goodgame.wadjetpartners)
+
+### Codify – Interview Materials App
+
 - [Amazon app store link](https://www.amazon.com/dp/B0DXC2FKL1/ref=apps_sf_sta)
 
-### Wadjet Partners – F&B Marketing Vendor App  
-- Added real-time notifications for redeem requests and in-app stats to help vendors monitor campaign engagement.
-- [Play store link](https://play.google.com/store/apps/details?id=com.goodgame.wadjetpartners)
+### Lampe: Electric products e-commerce mobile application (not published yet)
 
-### Lampe Vendor – Electric Products E-Commerce App  
-- Developed the vendor-facing application in a multi-app ecosystem (client, vendor, and delivery).  
-- Built and integrated key features including authentication, product management (add, update, control visibility), and client order processing (accept/reject).  
-- [App store link](https://apps.apple.com/us/app/lampe-vendor/id6738889129)
+### Azulzinho: Studio rent management mobile application (freelance project, internal use)
+
+### GitJunior: Git commands visualization desktop application (graduation project)
+
+- Contributed to developing a desktop app designed to visualize Git commands, simplifying the learning
+  process for newcomers.
+
 ---
 
-## 📫 Let's Connect!
+## 🔗 Let's Connect!
 
 If you're interested in mobile development, collaboration, or just want to say hi — feel free to reach out!
 
-- 📧 **Email**: ahmedzaydan2901@gmail.com  
-- 🐙 **GitHub**: [ahmedzaydan](https://github.com/ahmedzaydan)  
-- 🔗 **LinkedIn**: [Ahmed Zaydan](https://linkedin.com/in/ahmed-zaydan) 
-- 📄 **CV**: [View My CV](https://drive.google.com/file/d/1GN8HK-8YdlLHfxfQ_nt5VZu6ModvJ9-M/view?usp=sharing)
+- 📧 **Email**: ahmedzaydan2901@gmail.com
+- 🐙 **GitHub**: [ahmedzaydan](https://github.com/ahmedzaydan)
+- 🔗 **LinkedIn**: [Ahmed Zaydan](https://linkedin.com/in/ahmed-zaydan)
+- 📄 **CV**: [View My CV](https://drive.google.com/drive/folders/1mwT0fEKJiEof0tn9UwGJFeWf-6LzHgSo?usp=sharing)
+
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
