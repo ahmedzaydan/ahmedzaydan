@@ -55,56 +55,25 @@ Cairo University - Faculty of Computers and Artificial Intelligence - Computer S
 
 ## 🧰 Tech Stack & Skills
 
-### Mobile Development
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,github,gitlab,postman" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48"/>
 </div>
 
-### Architecture & State Management
+<br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/MVVM-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID%20Principles-FF6F00?style=for-the-badge"/>
-</div>
+**Mobile development:** Flutter, Cubit, State management, Firebase, Sqflite, Google Maps, Local Notifications, MVVM
+Architecture, Clean Architecture, Responsive and Adaptive UI, Debugging, Json serialization, Android, iOS, Push
+Updates, Payment Gateways, Flavors, CI/CD, GitHub Actions, Gitlab CI/CD.
 
-### Backend & Database
+**Programming & Software Principles:** Dart, Object Oriented Programming (OOP), SOLID Principles, Design Patterns,
+RESTful APIs, Clean Code, Algorithms, Data Structures.
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sqflite-003B57?style=for-the-badge"/>
-</div>
-
-### Tools & Platforms
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,github,gitlab,postman" />
-</div>
-
-### CI/CD & DevOps
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=githubactions" />
-<img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</div>
-
-### Other Skills
-
-<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Push%20Notifications-FFCA28?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Payment%20Gateway-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Responsive%20UI-7952B3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON%20Serialization-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Debugging-EA4335?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-0081CB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design%20Patterns-607D8B?style=for-the-badge"/>
+**Tools:** Version control, Git, GitHub, Gitlab, Trello, Postman, Figma.
 
 ---
 
